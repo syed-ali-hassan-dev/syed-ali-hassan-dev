@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Syed Ali Hassan Shah 👋
+**Software Engineer & Tech Fellow**
 
-<!--
-**syed-ali-hassan-dev/syed-ali-hassan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my engineering portfolio! I design systems, build AI-driven applications, and simulate complex network infrastructures.
 
-Here are some ideas to get you started:
+## 🚀 Key Areas of Focus
+* **Artificial Intelligence & NLP:** Text parsing, feature engineering, and similarity modeling.
+* **Networking & Cloud:** Simulation, routing protocols, and IT systems.
+* **Embedded Systems:** Hardware-software communication and real-time database syncing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Project Architectures
+* 🤖 **Resume Matcher (AI/NLP):** A system flow designed to parse PDF resumes and rank them against job descriptions using Cosine Similarity.
+* ⚡ **Smart Grid Station (Cisco Simulation):** A system modeled to dynamically scale power inputs based on changing real-world weather patterns.
+* 🚗 **IoT Smart Car Controller:** A real-time driver safety monitoring flow synced with Firebase.
